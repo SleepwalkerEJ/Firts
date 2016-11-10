@@ -1,0 +1,11 @@
+Como subir a Git
+
+# Crea tu archivo
+# git init
+# git add <elnombredetuarchivo>
+# git commit -m "<unmensaje>"
+# git remote add origin <url>
+# git push origin master
+
+En cualquier momento pueden
+checar kpx con git status
