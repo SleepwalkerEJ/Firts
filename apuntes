@@ -1,0 +1,61 @@
+
+Clases 
+Es un tipo de objeto 
+
+Objetos
+Cada uno esta dentro de las clases 
+
+Funcines dentro de objetos es llamado metodo
+Todo los metodos tienen que empezar con 'self'
+
+Funcion es cosas reciclables -> Se define con 'def' ---> 
+Los argumentos van dentro de los parentesis.
+
+damos dos puntos, pregunte al usuario un tercer punto con coordenadas x y 
+imprima si esta el punto dentro de los puntos ya definidos 
+
+max(2,5) --> Elige el maximo de entre los elementos dentro del parentesis --> 5
+min(2,5) --> Elige el minimo de entre los elementos dentro del parentesis --> 2
+
+__init__ --> Construye una clase :D
+
+----------------------------------------------------------------------------------------------------
+
+Maquina de estado
+Clase con varios metodos que pueden llamarse entre ellos
+
+Recursividad: Clase que se llama a si misma 
+
+-----------------------------------------------------------------------------------------------------
+.join
+Crea un string con los elementos de una lista 
+
+-----------------------------------------------------------------------------------------------------
+List comprenhention 
+Lista formada por elementos de otra lista 
+
+-----------------------------------------------------------------------------------------------------
+len 
+Si es una lista lista cuenta los elementos en ella y si es un string cuenta los caracteres 
+
+-----------------------------------------------------------------------------------------------------
+Herencia 
+Compaten caracteristicas de otra clase y tiene caracteristicas propias adicionales
+-----------------------------------------------------------------------------------------------------
+
+Random
+import random
+random.randint(x , y) --> Random entre x y y
+
+-----------------------------------------------------------------------------------------------------
+Enumerate 
+Le asigna un 'algo' al elemento en una lista (tuple)
+
+
+
+
+
+
+
+
+
